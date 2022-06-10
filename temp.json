@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Michael Paulson",
+            "title": "‘Dear Evan Hansen’ and ‘Tina’ to End Their Broadway Runs - The New York Times",
+            "description": "The musicals, both of which lost steam after the pandemic shutdown, will close in late summer.",
+            "url": "https://www.nytimes.com/2022/06/07/theater/dear-evan-hansen-closing-broadway.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/07/multimedia/07hansen-1/07hansen-1-facebookJumbo.jpg",
+            "publishedAt": "2022-06-07T18:14:08Z",
+            "content": "The show, which long ago recouped its capitalization costs and became profitable, was regularly grossing over $1 million a week before Broadway shut down in 2020 because of the coronavirus pandemic. … [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Anna Hirtenstein, Vicky Ge Huang",
+            "title": "Stocks Trade Modestly Higher - The Wall Street Journal",
+            "description": "Target’s warning spooks retail-sector investors; benchmark 10-year Treasury yield hovers just below 3%",
+            "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-07-2022-11654589931",
+            "urlToImage": "https://images.wsj.net/im-558686/social",
+            "publishedAt": "2022-06-07T18:08:00Z",
+            "content": "U.S. stock indexes edged higher Tuesday, reversing course after a profit warning from\r\nTarget\r\ncast a pall over the retail sector.The S&amp;P 500 rose 0.4%. The Nasdaq Composite ticked up 0.4%, while… [+4696 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "You can now install Windows 11's next big update a little early - The Verge",
+            "description": "Microsoft is releasing its next big Windows 11 update to Release Preview testers today. The update includes new Start menu folders, touch gestures, drag and drop for the taskbar, and much more.",
+            "url": "https://www.theverge.com/2022/6/7/23158357/microsoft-windows-11-22h2-update-release-preview-features-download",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aRkZCawhn1jJEKK3whPPPDWDu08=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22679323/Hero_Bloom_Logo.jpg",
+            "publishedAt": "2022-06-07T17:52:25Z",
+            "content": "New Start menu folders, touch gestures, and drag and drop for the taskbar\r\nMicrosoft is releasing its next big Windows 11 update to the Release Preview ring of final testing today. Windows 11 22H2 is… [+2119 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kate Sullivan, CNN",
+            "title": "Matthew McConaughey to join White House briefing after holding meetings with lawmakers on gun reform - CNN",
+            "description": "Actor Matthew McConaughey delivered impassioned and at-times emotional remarks at the White House press briefing on Tuesday, telling the stories of those who died in the elementary school shooting in Uvalde, Texas, and urging more action on gun control.",
+            "url": "https://www.cnn.com/2022/06/07/politics/matthew-mcconaughey-white-house/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220607134532-matthew-mcconaughey-karine-jean-pierre-press-conference-uvalde-06072022-super-tease.jpg",
+            "publishedAt": "2022-06-07T17:38:00Z",
+            "content": "(CNN)Actor Matthew McConaughey delivered impassioned and at-times emotional remarks at the White House press briefing on Tuesday, telling the stories of those who died in the elementary school shooti… [+2641 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Ben Fox",
+            "title": "US sees heightened extremist threat heading into midterms - The Associated Press - en Español",
+            "description": "WASHINGTON (AP) — A looming Supreme Court decision on abortion , an increase of migrants at the U.S.-Mexico border  and the midterm elections  are potential triggers for extremist violence over the next six months, the Department of Homeland Security said Tue…",
+            "url": "https://apnews.com/article/2022-midterm-elections-covid-health-mexico-f0db5be3931d14a5cd5da3bdc200e930",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/faf4424959394dc0a1c98a8c4c3c2371/3000.jpeg",
+            "publishedAt": "2022-06-07T17:01:06Z",
+            "content": "WASHINGTON (AP) A looming Supreme Court decision on abortion, an increase of migrants at the U.S.-Mexico border and the midterm elections are potential triggers for extremist violence over the next s… [+3400 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Orlando mother charged with husband's death after 2-year-old son finds weapons and shoots dad - ABC News",
+            "description": "A Florida mother already was charged with manslaughter after authorities alleged her 2-year-old son found an unsecured handgun and shot his dad in the back.",
+            "url": "https://abcnews.go.com/US/orlando-mother-charged-husbands-death-year-son-finds/story?id=85233412",
+            "urlToImage": "https://s.abcnews.com/images/US/marie-ayala-mugshot-main-ht-jt-220607_1654617784642_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-06-07T16:59:40Z",
+            "content": "A 28-year-old Florida mother on probation for child neglect has been charged in her husband's death after authorities alleged her 2-year-old son found an unsecured handgun in their Orlando home and f… [+2423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Hattie Lindert",
+            "title": "David Arquette weighs in on Neve Campbell's exit from Scream 6 - The A.V. Club",
+            "description": "\"A Scream movie without Sidney is kind of unfortunate, but I understand her decision,\" Arquette says",
+            "url": "https://www.avclub.com/david-arquette-responds-neve-campbell-exit-scream-6-1849028532",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f0436200ebeef87464b7e03013337f36.jpg",
+            "publishedAt": "2022-06-07T16:42:00Z",
+            "content": "Woodsboros most bravely bumbling cop has spoken out about a Scream 6 movie without Sidney Prescott. David Arquette, who played Dewey Riley in the franchise, addressed Neve Campbells announcement that… [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Remarkable Drug Trial Ends With All 18 Patients Cancer-Free - Gizmodo",
+            "description": "All patients treated with the drug are in remission, a result that seems unprecedented in cancer research.",
+            "url": "https://gizmodo.com/dostarlimab-cancer-trial-all-patients-in-remission-1849028706",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/22527298afecf8aef7c58a808146a862.jpg",
+            "publishedAt": "2022-06-07T16:37:00Z",
+            "content": "A cancer treatment has shown astounding results in a small clinical trial. All of the treated patients, who had a specific form of mid-stage rectal cancer, have since experienced complete remission. … [+3921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": null,
+            "title": "Videos: Hands-on with the completely redesigned MacBook Air - 9to5Mac",
+            "description": "Shortly after Apple’s WWDC keynote yesterday, the first hands-on images of the MacBook Air 2022 started to hit the web. Now, we’re seeing some hands-on videos start to surface, offering a closer look at the all-new design of the MacBook Air, the new midnight …",
+            "url": "https://9to5mac.com/2022/06/07/macbook-air-2022-hands-on-videos/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/MacBook-Air-2022.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-06-07T16:36:00Z",
+            "content": "Shortly after Apple’s WWDC keynote yesterday, the first hands-on images of the MacBook Air 2022 started to hit the web. Now, we’re seeing some hands-on videos start to surface, offering a closer look… [+1702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Uvalde, Texas school shooting: Wounded teacher speaks out for first time - WFAA",
+            "description": "Arnulfo Reyes gave his first interview since the shooting to ABC News.MORE: https://www.wfaa.com/article/news/special-reports/uvalde-school-shooting/uvalde-t...",
+            "url": "https://www.youtube.com/watch?v=RV6SAQvR-JE",
+            "urlToImage": "https://i.ytimg.com/vi/RV6SAQvR-JE/maxresdefault.jpg",
+            "publishedAt": "2022-06-07T16:17:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach",
+            "title": "Tiger Woods skipping U.S. Open to give his body time to heal, 'be ready to play' The Open in July - ESPN",
+            "description": "In skipping next week's U.S. Open, Tiger Woods said he hopes to give his body more time to heal in order to play The Open in July.",
+            "url": "https://www.espn.com/golf/story/_/id/34052495/tiger-woods-skipping-us-open-hopes-ready-open-july",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0520%2Fr1015476_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-06-07T16:16:31Z",
+            "content": "Tiger Woods has pulled out of next week's U.S. Open, giving his body more time to heal and get stronger, as he still plans to play in the 150th Open Championship at St. Andrews in Scotland in July.\r\n… [+1827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Andrew Court",
+            "title": "Why Prince Harry and Meghan really didn't get a Queen and Lilibet photo - New York Post ",
+            "description": "Were they shutdown with a “no chance” admonishment — or merely too polite to put the ailing grandmum out?",
+            "url": "https://nypost.com/2022/06/07/harry-and-meghan-told-no-chance-of-queen-and-lilibet-photo/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/harry-meghan-lilibet.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-06-07T16:16:00Z",
+            "content": "Depending on whom you ask, Prince Harry and Meghan Markle were either cruelly rejected by royal aides when they asked Queen Elizabeth II to pose for photos with their daughter Lilibet Diana last week… [+3782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Andrew Keh",
+            "title": "Figure Skating Will Raise Age Limit to 17 - The New York Times",
+            "description": "The minimum age for elite skaters will be phased in over three years and be in place in time for the 2026 Olympics.",
+            "url": "https://www.nytimes.com/2022/06/07/sports/olympics/figure-skating-age-limit-valieva.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/07/multimedia/07skaring-new/07skaring-new-facebookJumbo.jpg",
+            "publishedAt": "2022-06-07T16:06:08Z",
+            "content": "Figure skatings global governing body voted Tuesday to gradually increase the minimum age limit for elite competitors to 17 over the next three years. It characterized the move as an effort to safegu… [+624 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Enough with Trumpism: Mass. Dems rally to Healey in governor's race - POLITICO",
+            "description": "“People don’t want ... Donald Trump acolytes or supporters in office. That’s why people are being very clear-eyed about who they support,\" one Democratic consultant said.",
+            "url": "https://www.politico.com/news/2022/06/07/massachusetts-governor-race-maura-healey-00037723",
+            "urlToImage": "https://static.politico.com/54/64/b3d362cf4b7fa05d611487323c26/us-election-2022-massachusetts-democrats-01025.jpg",
+            "publishedAt": "2022-06-07T16:04:03Z",
+            "content": "Its that Massachusetts Democrats, above all else, are wary of Republican rule from the executive suite. Theyre scarred by Donald Trumps years in the White House and are facing the prospect of a Repub… [+7941 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Ann M. Simmons",
+            "title": "Netflix, BlackRock CEOs Among Those Newly Sanctioned by Russia - The Wall Street Journal",
+            "description": "A handful of prominent American CEOs, including BlackRock’s Larry Fink and the bosses at Delta Air Lines, Netflix and Universal Pictures, have landed on a fresh list of sanctions Russia has imposed in retaliation for economic restrictions the West has rolled …",
+            "url": "https://www.wsj.com/articles/netflix-blackrock-ceos-among-those-newly-sanctioned-by-russia-11654601872",
+            "urlToImage": "https://images.wsj.net/im-558720/social",
+            "publishedAt": "2022-06-07T15:52:00Z",
+            "content": "MOSCOWA handful of prominent American CEOs, including BlackRock Inc.s Larry Fink and the bosses at Delta Air Lines Inc., Netflix Inc. and Universal Pictures, have landed on a fresh list of sanctions … [+623 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Forrest Brown, CNN",
+            "title": "CDC's travel advisory on monkeypox: 'Practice enhanced precautions' - CNN",
+            "description": "The US Centers for Disease Control and Prevention has an \"Alert -- Level 2\" advisory for travelers to \"practice enhanced precautions\" because of the spread of monkeypox, a rare disease that's a cousin of smallpox.",
+            "url": "https://www.cnn.com/travel/article/cdc-monkeypox-travel-advisory-destinations/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220607142610-01-cdc-monkeypox-super-tease.jpeg",
+            "publishedAt": "2022-06-07T15:47:22Z",
+            "content": "(CNN) The US Centers for Disease Control and Prevention has an \"Alert -- Level 2\" advisory for travelers to \"practice enhanced precautions\" because of the spread of monkeypox, a rare disease that's a… [+3982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Lori Grunin",
+            "title": "iOS 16, MacBook Air M2 and Everything Else You May Have Missed From Apple's WWDC 2022 - CNET",
+            "description": "Apple debuted iOS 16, MacOS Ventura, new M2 chips, and updates to platforms such as CarPlay and SharePlay.",
+            "url": "https://www.cnet.com/tech/mobile/wwdc-2022-recap-ios-16-everything-else-apple-announced-yesterday/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4c73a8235c14c03c24c4b4d5792999dafade1160/2022/06/06/2e13f255-e835-45be-b9a1-2d6884c24af6/apple-macbook-air-2022-wwdc.png?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-06-07T15:38:00Z",
+            "content": "This story is part of WWDC 2022, CNET's complete coverage from and about Apple's annual developers conference. \r\nApple's annual developer conference, WWDC, is where the company shows off the next ver… [+7452 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte and Virginia Langmaid, CNN",
+            "title": "Overweight people lost 35 to 52 pounds on newly approved diabetes drug, study says - CNN",
+            "description": "A recently approved drug for diabetes that helped users lose weight was also tested on overweight people without diabetes, with \"impressive\" results that rival weight loss surgery, experts say.",
+            "url": "https://www.cnn.com/2022/06/06/health/weight-loss-drug-diabetes-wellness/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220606171038-weight-loss-drug-diabetes-wellness-super-tease.jpg",
+            "publishedAt": "2022-06-07T15:37:00Z",
+            "content": "Sign up for CNN's Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life. \r\n (CNN)A weekly dose of a medi… [+4317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "What's New in tvOS 16 for Apple TV: Features and Enhancements - MacRumors",
+            "description": "While the Apple TV was an afterthought during the WWDC 2022 keynote, there is indeed a new tvOS 16 update for all Apple TV HD and Apple TV 4K models,...",
+            "url": "https://www.macrumors.com/2022/06/07/tvos-16-features-for-apple-tv/",
+            "urlToImage": "https://images.macrumors.com/t/m5ttUvJzP4f5bFZoNJCGaHAi7Qo=/2500x/article-new/2021/04/apple-tv-4k-design-triad.jpg",
+            "publishedAt": "2022-06-07T15:26:35Z",
+            "content": "While the Apple TV was an afterthought during the WWDC 2022 keynote, there is indeed a new tvOS 16 update for all Apple TV HD and Apple TV 4K models, with the first beta released to developers for te… [+1849 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. faces 'unacceptable levels of inflation,' Yellen tells senators - Reuters.com",
+            "description": "The United States faces \"unacceptable levels of inflation\" and an appropriate budgetary stance is needed to help dampen inflationary pressures without undermining the economy, U.S. Treasury Secretary Janet Yellen told senators on Tuesday.",
+            "url": "https://www.reuters.com/markets/us/us-faces-unacceptable-levels-inflation-yellen-tells-senators-2022-06-07/",
+            "urlToImage": "https://www.reuters.com/resizer/IG4fZuQ_Jn8Loob6KdHNk8HlfGY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYMG4JVWUFPIHMSMVARH4AXWMM.jpg",
+            "publishedAt": "2022-06-07T15:21:00Z",
+            "content": "WASHINGTON, June 7 (Reuters) - The United States faces \"unacceptable levels of inflation\" and an appropriate budgetary stance is needed to help dampen inflationary pressures without undermining the e… [+2285 chars]"
+        }
+    ]
+}
