@@ -8,7 +8,7 @@ const NewsItem = (props)=> {
     return (
       <div >
         
-          <div className="card my-3 mx-2 shadow  rounded" style={{backgroundColor: props.mode==="dark"?"#078a48":"white",color:props.mode==="dark"?"white":"black",border: `2px solid ${props.mode==="dark"?"white":"#078a48"}`}} >
+          <div className="card my-3 mx-2" style={{backgroundColor: mode==="dark"?"#078a48":"white",color:mode==="dark"?"white":"black",border: `2px solid ${props.mode==="dark"?"white":"#078a48"}`}} >
             <img src={!imgurl?"https://play-lh.googleusercontent.com/jnHcPC4n4aiQwOApIloUqsKllbsUJx8s4zGeLPEjfx9RxoOfPugbHPiIfrvfGOOFtg":imgurl} className="card-img-top" alt="..."/>
             <div className={`card-body `} >
                 <h5 className={`card-title `}>{title}</h5>
